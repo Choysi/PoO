@@ -14,6 +14,11 @@ if (isset($_GET['categorie'])) {
 
     foreach ($arrQuestionCategorie as $key => $value) {
         $questionsCategorie[] = new Questions($value);
+        $arr = $reponseDAO->getReponseByQuestion($value['id_question']);
+    }
+
+    foreach ($arr as $key => $value) {
+    $reponseCat[] = new Reponse($value);
     }
 } else {
     header('Location : ../Vue/index.php');

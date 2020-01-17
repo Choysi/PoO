@@ -2,7 +2,7 @@
 
 require_once "hydrate.class.php";
 
-class Reponses extends Entity
+class Reponse extends Entity
 {
 
     public $id;
