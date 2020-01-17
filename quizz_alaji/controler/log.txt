@@ -1,0 +1,6 @@
+17-Jan-2020 11:50:34 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
+17-Jan-2020 11:50:44 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
+17-Jan-2020 11:51:36 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
+17-Jan-2020 11:52:33 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
+17-Jan-2020 11:53:57 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
+17-Jan-2020 11:54:21 - ERREUR BDD : SQLSTATE[HY000] [1049] Unknown database 'session'
