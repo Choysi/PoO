@@ -28,12 +28,12 @@
 
                 <div class="d-flex justify-content-around mt-4">
 
-                    <a href="../Controler/quizz_controler.php?categorie=animal"><button class="btn btn-primary">Animal</button></a>
-                    <a href="../Controler/quizz_controler.php?categorie=cinema"><button class="btn btn-secondary">Cinéma</button></a>
-                    <a href="../Controler/quizz_controler.php?categorie=politique"><button class="btn btn-success">Politique</button></a>
-                    <a href="../Controler/quizz_controler.php?categorie=web"><button class="btn btn-danger">Web</button></a>
-                    <a href="../Controler/quizz_controler.php?categorie=cosmologie"><button class="btn btn-warning">Cosmologie</button></a>
-                    <a href="../Controler/quizz_controler.php?categorie=animal"><button class="btn btn-info">Sport</button></a>
+                    <a href="categorie_quizz.php?categorie=animal"><button class="btn btn-primary">Animal</button></a>
+                    <a href="categorie_quizz.php?categorie=cinema"><button class="btn btn-secondary">Cinéma</button></a>
+                    <a href="categorie_quizz.php?categorie=politique"><button class="btn btn-success">Politique</button></a>
+                    <a href="categorie_quizz.php?categorie=web"><button class="btn btn-danger">Web</button></a>
+                    <a href="categorie_quizz.php?categorie=cosmologie"><button class="btn btn-warning">Cosmologie</button></a>
+                    <a href="categorie_quizz.php?categorie=animal"><button class="btn btn-info">Sport</button></a>
 
                 </div>
 
